@@ -1,2 +1,2 @@
-# magic
-hello world
+# title
+placeholder text
